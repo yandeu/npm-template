@@ -1,6 +1,9 @@
-.github
-coverage
-node_modules
-src
-test
-package-lock.json
+/*
+
+!/.npmrc
+!/LICENSE
+!/README.md
+!/bundles
+!/lib
+!/package.json
+!/readme
